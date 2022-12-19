@@ -1,0 +1,197 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.291089,
+          27.69926
+        ]
+      },
+      "properties": {
+        "district": "Kathmandu",
+        "city": "Tahachal",
+        "warehouseType": "central",
+        "storageCapacity": 10000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.184014,
+          28.963925
+        ]
+      },
+      "properties": {
+        "district": "Kanchanpur",
+        "city": "Mahendranagar",
+        "warehouseType": "regional",
+        "storageCapacity": 4000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.645543,
+          28.083648
+        ]
+      },
+      "properties": {
+        "district": "Banke",
+        "city": "Nepalgunj",
+        "warehouseType": "regional",
+        "storageCapacity": 4000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.87882,
+          27.015072
+        ]
+      },
+      "properties": {
+        "district": "Parsa",
+        "city": "Birgunj",
+        "warehouseType": "regional",
+        "storageCapacity": 4000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.286626,
+          26.46431
+        ]
+      },
+      "properties": {
+        "district": "Morang",
+        "city": "Biratnagar",
+        "warehouseType": "regional",
+        "storageCapacity": 4000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.767417,
+          27.148422
+        ]
+      },
+      "properties": {
+        "district": "Panchthar",
+        "city": "Phidim",
+        "warehouseType": "sub-regional",
+        "storageCapacity": 1000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.368175,
+          26.959772
+        ]
+      },
+      "properties": {
+        "district": "Udaypur",
+        "city": "Katari",
+        "warehouseType": "sub-regional",
+        "storageCapacity": 1000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.41667,
+          29.56056
+        ]
+      },
+      "properties": {
+        "district": "Baitadi",
+        "city": "Khodpe",
+        "warehouseType": "sub-regional",
+        "storageCapacity": 1000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.988201,
+          29.270635
+        ]
+      },
+      "properties": {
+        "district": "Doti",
+        "city": "Silgadhi",
+        "warehouseType": "sub-regional",
+        "storageCapacity": 1000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.380897,
+          28.23008
+        ]
+      },
+      "properties": {
+        "district": "Lamjung",
+        "city": "Besisahar",
+        "warehouseType": "sub-regional",
+        "storageCapacity": 1000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.002085,
+          28.212194
+        ]
+      },
+      "properties": {
+        "district": "Kaski",
+        "city": "Pokhara",
+        "warehouseType": "zonal",
+        "storageCapacity": 2500
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.466778,
+          27.708796
+        ]
+      },
+      "properties": {
+        "district": "Rupandehi",
+        "city": "Butwal",
+        "warehouseType": "zonal",
+        "storageCapacity": 2500
+      }
+    }
+  ]
+}
