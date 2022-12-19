@@ -1,0 +1,100 @@
+{
+  "warehouses": [
+    {
+      "district": "Kathmandu",
+      "city": "Tahachal",
+      "type": "central",
+      "latitude": 27.69926,
+      "longitude": 85.291089,
+      "storageCapacity": 10000
+    },
+    {
+      "district": "Kanchanpur",
+      "city": "Mahendranagar",
+      "type": "regional",
+      "latitude": 28.963925,
+      "longitude": 80.184014,
+      "storageCapacity": 4000
+    },
+    {
+      "district": "Banke",
+      "city": "Nepalgunj",
+      "type": "regional",
+      "latitude": 28.083648,
+      "longitude": 81645543,
+      "storageCapacity": 4000
+    },
+    {
+      "district": "Parsa",
+      "city": "Birgunj",
+      "type": "regional",
+      "latitude": 27.015072,
+      "longitude": 84.87882,
+      "storageCapacity": 4000
+    },
+    {
+      "district": "Morang",
+      "city": "Biratnagar",
+      "type": "regional",
+      "latitude": 26.46431,
+      "longitude": 87.286626,
+      "storageCapacity": 4000
+    },
+    {
+      "district": "Panchthar",
+      "city": "Phidim",
+      "type": "sub-regional",
+      "latitude": 27.148422,
+      "longitude": 87.767417,
+      "storageCapacity": 1000
+    },
+    {
+      "district": "Udaypur",
+      "city": "Katari",
+      "type": "sub-regional",
+      "latitude": 26.959772,
+      "longitude": 86.368175,
+      "storageCapacity": 1000
+    },
+    {
+      "district": "Baitadi",
+      "city": "Khodpe",
+      "type": "sub-regional",
+      "latitude": 29.56056,
+      "longitude": 80.41667,
+      "storageCapacity": 1000
+    },
+    {
+      "district": "Doti",
+      "city": "Silgadhi",
+      "type": "sub-regional",
+      "latitude": 29.270635,
+      "longitude": 80.988201,
+      "storageCapacity": 1000
+    },
+    {
+      "district": "Lamjung",
+      "city": "Besisahar",
+      "type": "sub-regional",
+      "latitude": 28.23008,
+      "longitude": 84.380897,
+      "storageCapacity": 1000
+    },
+    {
+      "district": "Kaski",
+      "city": "Pokhara",
+      "type": "zonal",
+      "latitude": 28.212194,
+      "longitude": 84.002085,
+      "storageCapacity": 2500
+    },
+    {
+      "district": "Rupandehi",
+      "city": "Butwal",
+      "type": "zonal",
+      "latitude": 27.708796,
+      "longitude": 83.466778,
+      "storageCapacity": 2500
+    }
+  ]
+}
