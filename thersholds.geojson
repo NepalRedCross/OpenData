@@ -1,0 +1,93 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.28740,
+          28.65340
+        ]
+      },
+      "properties": {
+        "riverName": "Karnali",
+        "locationName": "Chisapani",
+        "stationNumber": "280.00",
+        "stationID": "SI002130",
+        "stationOwnedByDHM": true,
+        "stationTelemetry": true,
+        "thresholdWarningDHM": 10,
+        "thresholdDangerDHM": 10.8,
+        "thresholdWarningNRCS": 11,
+        "thresholdDangerNRCS": 11.8
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.72056,
+          28.35111
+        ]
+      },
+      "properties": {
+        "riverName": "Babai",
+        "locationName": "Chepang",
+        "stationNumber": "289.95",
+        "stationID": "S00114",
+        "stationOwnedByDHM": true,
+        "stationTelemetry": true,
+        "thresholdWarningDHM": 5.5,
+        "thresholdDangerDHM": 6.8,
+        "thresholdWarningNRCS": 6.5,
+        "thresholdDangerNRCS": 7.8
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.51836,
+          28.83186
+        ]
+      },
+      "properties": {
+        "riverName": "Mohana",
+        "locationName": "Malakheti",
+        "stationNumber": "281.00",
+        "stationID": null,
+        "stationOwnedByDHM": true,
+        "stationTelemetry": true,
+        "thresholdWarningDHM": 2,
+        "thresholdDangerDHM": 3,
+        "thresholdWarningNRCS": 2,
+        "thresholdDangerNRCS": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.53178,
+          28.93113
+        ]
+      },
+      "properties": {
+        "riverName": "Doda",
+        "locationName": "Sotyas",
+        "stationNumber": null,
+        "stationID": null,
+        "stationOwnedByDHM": false,
+        "stationTelemetry": false,
+        "thresholdWarningDHM": 4,
+        "thresholdDangerDHM": 4.9,
+        "thresholdWarningNRCS": 4,
+        "thresholdDangerNRCS": 4.9
+      }
+    }
+  ]
+}
